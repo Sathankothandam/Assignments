@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.light{
+  background-color: blue;
+  color: white;
+}
+.dark{
+  background-color:yellow;
+  color: black;
+}
